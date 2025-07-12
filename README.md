@@ -1,6 +1,3 @@
-Perfect! Here's your updated, complete `README.md` (excluding license and contribution sections):
-
----
 
 # HARVIS – Personal AI Assistant
 
