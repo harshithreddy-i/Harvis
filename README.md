@@ -1,8 +1,3 @@
-# Harvis
-Absolutely! Here's a concise yet informative **README description** for your GitHub repo:
-
----
-
 # HARVIS - Personal AI Assistant
 
 **HARVIS** (Helpful, Adaptive, Reliable Virtual Intelligent Supporter) is a lightweight, modular AI assistant designed to support your daily productivity and motivation. HARVIS runs locally on your machine and interacts with you through natural voice commands.
