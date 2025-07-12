@@ -113,6 +113,3 @@ HARVIS will be demonstrated in a short video showing:
 * Desktop notifications
 
 ---
-![HARVIS Banner](assets/harvis-banner.png)
-![HARVIS Demo](assets/harvis-demo.gif)
-
