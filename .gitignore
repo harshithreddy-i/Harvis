@@ -1,0 +1,4 @@
+*.wav
+models/
+harvis_env/
+__pycache__/
