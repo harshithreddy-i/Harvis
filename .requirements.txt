@@ -1,0 +1,7 @@
+vosk
+pyaudio
+pvporcupine
+coqui-tts
+transformers
+schedule
+plyer
